@@ -29,7 +29,7 @@ The following additional features are implemented:
 
 # Video Walkthrough
 Here's a walkthrough of implemented user stories:
-<img src = 'Walkthrough.gif'  title = 'Video Walkthrough'
+<img src = 'Walkthrough.gif'  title = 'Video Walkthrough' />
 
 # Notes
 Describe any challenges encountered while building the app.
